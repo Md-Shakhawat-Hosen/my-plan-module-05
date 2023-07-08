@@ -50,3 +50,20 @@ header {
   line-height: 26px;
   margin-top: 24px;
 }
+
+/* main content start */
+.main-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 134px;
+    padding: 140px 230px;
+}
+
+.main-content-left{
+
+}
+.main-content-right{
+    width: 420px;
+}
+/* main content end */
