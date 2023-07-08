@@ -52,18 +52,45 @@ header {
 }
 
 /* main content start */
-.main-content{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    gap: 134px;
-    padding: 140px 230px;
+.main-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 134px;
+  padding: 140px 230px;
 }
 
-.main-content-left{
-
+.main-content-left {
 }
-.main-content-right{
-    width: 420px;
+.main-content-right {
+  width: 420px;
+}
+.right-title {
+  color: #151414;
+  font-family: Work Sans;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.right-des {
+  color: #444343;
+  font-family: Work Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 16px;
+}
+.right-info {
+  color: #444343;
+  font-family: Work Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.fa-check {
+  color: #16d887;
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
 }
 /* main content end */
